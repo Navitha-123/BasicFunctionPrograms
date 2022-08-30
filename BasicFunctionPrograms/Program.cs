@@ -25,6 +25,7 @@
                 case 5:
                     PrimeNumberFactor.PrimeFactorNumber();
                     break;
+
             }
         }
     }
