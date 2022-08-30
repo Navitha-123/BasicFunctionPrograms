@@ -37,6 +37,12 @@
                 case 9:
                     ConsonentsOrVowels.VowelOrConsonentAlphabet();
                     break;
+                case 10:
+                    LargestAmongThree.AmongThreeLargestNumbers();
+                    break;
+                default:
+                    Console.WriteLine("Enter wrong choce");
+                    break;
 
             }
         }
