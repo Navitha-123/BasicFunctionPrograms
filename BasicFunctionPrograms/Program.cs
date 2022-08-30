@@ -22,6 +22,9 @@
                 case 4:
                     HarmonicValue.HormonicNumber();
                     break;
+                case 5:
+                    PrimeNumberFactor.PrimeFactorNumber();
+                    break;
             }
         }
     }
