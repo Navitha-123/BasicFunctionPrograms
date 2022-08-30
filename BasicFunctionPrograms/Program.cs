@@ -13,6 +13,9 @@
                 case 1:
                     HeadAndTail.CalculatePercentage();
                     break;
+                case 2:
+                    YearLeap.LeapYearOrNot();
+                    break;
             }
         }
     }
