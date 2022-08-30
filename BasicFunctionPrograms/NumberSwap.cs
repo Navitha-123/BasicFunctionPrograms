@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicFunctionPrograms
 {
-    internal class SwapNumbers
+    internal class NumberSwap
     {
         public static void SwapTwoNumbers()
         {

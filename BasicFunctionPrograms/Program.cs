@@ -29,7 +29,10 @@
                     RemainderAndQuotient.QuatientAndRemainderNumber();
                     break;
                 case 7:
-                    SwapNumbers.SwapTwoNumbers();
+                    NumberSwap.SwapTwoNumbers();
+                    break;
+                case 8:
+                    OddOrEven.EvenOrOddNumber();
                     break;
 
             }
