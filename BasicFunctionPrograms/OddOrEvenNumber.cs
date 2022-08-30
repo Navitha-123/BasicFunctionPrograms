@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicFunctionPrograms
 {
-    internal class OddOrEven
+    internal class OddOrEvenNumber
     {
         public static void EvenOrOddNumber()
         {
