@@ -32,7 +32,10 @@
                     NumberSwap.SwapTwoNumbers();
                     break;
                 case 8:
-                    OddOrEven.EvenOrOddNumber();
+                    OddOrEvenNumber.EvenOrOddNumber();
+                    break;
+                case 9:
+                    ConsonentsOrVowels.VowelOrConsonentAlphabet();
                     break;
 
             }
