@@ -19,6 +19,9 @@
                 case 3:
                     PowerNumber.PowerofTwo();
                     break;
+                case 4:
+                    HarmonicValue.HormonicNumber();
+                    break;
             }
         }
     }
