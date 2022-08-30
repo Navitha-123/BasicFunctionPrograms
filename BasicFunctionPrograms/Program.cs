@@ -16,6 +16,9 @@
                 case 2:
                     YearLeap.LeapYearOrNot();
                     break;
+                case 3:
+                    PowerNumber.PowerofTwo();
+                    break;
             }
         }
     }
